@@ -1,6 +1,6 @@
 # Python-SnakeGame-Using-Turtle
 
-:globe_with_meredians:Learned from Udemy course- 100 Days of Code: The Complete Python Pro Bootcamp for 2023 -Dr. Angela Yu
+:globe_with_meredian: Learned from Udemy course- 100 Days of Code: The Complete Python Pro Bootcamp for 2023 -Dr. Angela Yu
 
 Requirements:
 1. Turtle module
